@@ -1,11 +1,9 @@
 [DE](./README.de.md) [FR](./README.fr.md) [IT](./README.it.md) [RM](./README.rm.md) [EN](./README.md)
 
-## Benvenuto
+## 👋 Benvenuto
 
-Benvenuto nel nostro account dell'organizzazione GitHub!
+Benvenuti nell'account aziendale GitHub di ospo.ch!
 
-ospo.ch è un programma e una piattaforma tecnica che cura e promuove buone pratiche nello sviluppo, nella collaborazione e nel riutilizzo del codice in tutta la Svizzera.
+ospo.ch è un programma e una piattaforma tecnica che mira a curare e promuovere buone pratiche nello sviluppo, nella collaborazione e nel riutilizzo del codice in tutta la Svizzera.
 
-ospo.ch raccoglie un inventario di codici personalizzati di organizzazioni svizzere per promuovere il riutilizzo.
-
-Il nostro obiettivo è fornire strumenti e conoscenze per aiutare le organizzazioni e il pubblico a collaborare su progetti open source.
+ospo.ch raccoglie un inventario di progetti open source di organizzazioni svizzere per promuovere il riutilizzo.

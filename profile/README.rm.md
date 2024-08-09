@@ -1,11 +1,9 @@
 [DE](./README.de.md) [FR](./README.fr.md) [IT](./README.it.md) [RM](./README.rm.md) [EN](./README.md)
 
-## Bainvegni
+## 👋 Bainvegni
 
-Cordial bainvegni sin noss conto d'organisaziun GitHub!
+Bainvegni al conto d'organisaziun GitHub da ospo.ch!
 
-ospo.ch è ina plattafurma da program e tecnica tractar e promover bunas praticas en connex cun il svilup da codes, la collavuraziun ed il reutilisar en tut la Svizra.
+ospo.ch è in program ed ina plattafurma tecnica cun la finamira da curar e da promover en tut la Svizra praticas cumprovadas concernent il svilup da codes, la collavuraziun e la reutilisaziun.
 
-ospo.ch schuna in inventari dals codes da usits d'organisaziuns en Svizra per promover la reutilisaziun.
-
-Nossa finamira è da metter a disposiziun instruments e savida per gidar las organisaziuns e la populaziun tar projects open-source.
+ospo.ch rimna in inventari dals projects da funtauna averts d'organisaziuns svizras cun l'intent da promover la reutilisaziun.
