@@ -1,7 +1,5 @@
 [DE](./CODE_OF_CONDUCT.de.md) [FR](./CODE_OF_CONDUCT.fr.md) [IT](./CODE_OF_CONDUCT.it.md) [RM](./CODE_OF_CONDUCT.rm.md) [EN](./CODE_OF_CONDUCT.md)
 
-_Discommunicaziun: quai è ina translaziun maschinala. Ella è cumplettamain automatisada e na cumpiglia nagina intervenziun umana. La qualitad e l'exactadad da la translaziun maschinala pon variar dad in text a l'auter e tranter differents pèrs linguistics. ospo.ch na garantescha betg l'exactadad da la translaziun e n'accepta betg responsabladad per sbagls eventuals. As referi p.pl. al text uffizial en versiun originala englaisa en cas da dubis._
-
 # Codice di Comportamento del Collaboratore
 
 ## Il Nostro Impegno
