@@ -1,3 +1,3 @@
 # .github
 
-Default Community Health Files for the ospo-ch organization on GitHub.
+Community health files for the [@ospo-ch](https://github.com/ospo-ch) organization.
