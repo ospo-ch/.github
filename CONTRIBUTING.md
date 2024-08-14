@@ -1,4 +1,4 @@
-[DE](./CONTRIBUTING.de.md) [FR](./CONTRIBUTING.fr.md) [IT](./CONTRIBUTING.it.md) [RM](./CONTRIBUTING.rm.md) [EN](./CONTRIBUTING.md)
+[DE](./i18n/de/CONTRIBUTING.de.md) [FR](./i18n/fr/CONTRIBUTING.fr.md) [IT](./i18n/it/CONTRIBUTING.it.md) [RM](./i18n/rm/CONTRIBUTING.rm.md) [EN](./CONTRIBUTING.md)
 
 # Contributing
 

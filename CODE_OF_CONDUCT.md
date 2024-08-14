@@ -1,4 +1,4 @@
-[DE](./CODE_OF_CONDUCT.de.md) [FR](./CODE_OF_CONDUCT.fr.md) [IT](./CODE_OF_CONDUCT.it.md) [RM](./CODE_OF_CONDUCT.rm.md) [EN](./CODE_OF_CONDUCT.md)
+[DE](./i18n/de/CODE_OF_CONDUCT.de.md) [FR](./i18n/fr/CODE_OF_CONDUCT.fr.md) [IT](./i18n/it/CODE_OF_CONDUCT.it.md) [RM](./i18n/rm/CODE_OF_CONDUCT.rm.md) [EN](./CODE_OF_CONDUCT.md)
 
 # Contributor Covenant Code of Conduct
 

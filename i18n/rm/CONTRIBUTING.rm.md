@@ -1,5 +1,3 @@
-[DE](./CONTRIBUTING.de.md) [FR](./CONTRIBUTING.fr.md) [IT](./CONTRIBUTING.it.md) [RM](./CONTRIBUTING.rm.md) [EN](./CONTRIBUTING.md)
-
 _Discommunicaziun: quai è ina translaziun maschinala. Ella è cumplettamain automatisada e na cumpiglia nagina intervenziun umana. La qualitad e l'exactadad da la translaziun maschinala pon variar dad in text a l'auter e tranter differents pèrs linguistics. ospo.ch na garantescha betg l'exactadad da la translaziun e n'accepta betg responsabladad per sbagls eventuals. As referi p.pl. al text uffizial en versiun originala englaisa en cas da dubis._
 
 # Cooperation

@@ -1,5 +1,3 @@
-[DE](./CONTRIBUTING.de.md) [FR](./CONTRIBUTING.fr.md) [IT](./CONTRIBUTING.it.md) [RM](./CONTRIBUTING.rm.md) [EN](./CONTRIBUTING.md)
-
 # Contribuer
 
 Bienvenue ! Nous sommes ravis que vous souhaitiez contribuer à ce projet !
