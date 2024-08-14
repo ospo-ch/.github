@@ -1,5 +1,3 @@
-[DE](./CODE_OF_CONDUCT.de.md) [FR](./CODE_OF_CONDUCT.fr.md) [IT](./CODE_OF_CONDUCT.it.md) [RM](./CODE_OF_CONDUCT.rm.md) [EN](./CODE_OF_CONDUCT.md)
-
 # Codice di Comportamento del Collaboratore
 
 ## Il Nostro Impegno

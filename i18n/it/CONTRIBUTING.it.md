@@ -1,6 +1,4 @@
-[DE](./CONTRIBUTING.de.md) [FR](./CONTRIBUTING.fr.md) [IT](./CONTRIBUTING.it.md) [RM](./CONTRIBUTING.rm.md) [EN](./CONTRIBUTING.md)
-
-# Contribuire
+s# Contribuire
 
 Benvenuto! Siamo entusiasti che tu voglia contribuire a questo progetto!
 
